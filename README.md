@@ -12,7 +12,7 @@ Spring Mail
 Spring Validation
 Maven
 MySQL (PostgreSQL second version)
-JPA/Hibernate
+JPA/Hibernate/JDBC
 HTML/CSS/FreeMarker
 JUnit/MockMvc/SpringBootTest
 Bootstrap 5.3/Font Awesome
@@ -21,6 +21,7 @@ Flyway
 JAXB
 Google reCaptcha
 Deploy: Railway, Render, Neon
+ 
 
 
 Opportunities:
